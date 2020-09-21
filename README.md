@@ -6,7 +6,7 @@ The site has used [openweathermap](https://openweathermap.org/api) as an API
 
 ## Usage
 
-Get you API key from [from openweathermap](https://openweathermap.org/api)
+Get you API key from [openweathermap](https://openweathermap.org/api)
 and replace you key with \_**_YOUR_**API**\_KEY\_\_**
 
 ```js
